@@ -19,6 +19,11 @@ body {
     margin: auto;
 }
 
+.row{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
 h1, h3 {
     font-family: var(--main-type);
     font-weight: 700;
