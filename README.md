@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-- I learned about CSS Blend Modes properties : "background-blend-mode: multiply;" to add a colored filter to an img
+- I learned about CSS Blend Modes properties : "background-blend-mode: multiply;" to add a colored filter to an img based on bg color
 - How to edit .gitignore
 
 
